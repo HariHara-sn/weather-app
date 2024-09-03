@@ -23,7 +23,7 @@ class _ApiEndpointState extends State<ApiEndpoint> {
 
   Future<void> fetchData(String city) async {
     final response = await http.get(Uri.parse(
-        'https://api.openweathermap.org/data/2.5/weather?q=$city&appid=f84bc3721080a64a90de6f90a5c854e9&units=metric'));
+        'YOUR_API'));
 
     if (response.statusCode == 200) {
       final data = jsonDecode(response.body);

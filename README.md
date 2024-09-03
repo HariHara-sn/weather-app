@@ -5,6 +5,11 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+# Screenshot 1
+<img src="https://github.com/HariHara-sn/weather-app/blob/master/assets/coimbatore.jpg" height="400">
+
+# Screenshot 2
+<img src="https://github.com/HariHara-sn/weather-app/blob/master/assets/chennai.jpg" height="400">
 
 A few resources to get you started if this is your first Flutter project:
 
